@@ -1,0 +1,3 @@
+include ':logoimageview'
+include ':app'
+rootProject.name = "LogoImageView"

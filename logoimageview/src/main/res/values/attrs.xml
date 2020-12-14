@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LogoImageView">
+        <attr name="logoType" format="integer"/>
+        <attr name="isCircle" format="boolean"/>
+        <attr name="isRoundCorner" format="boolean"/>
+        <attr name="borderRadius" format="dimension"/>
+        <attr name="radiusType" format="integer"/>
+        <attr name="bgColor" format="color"/>
+    </declare-styleable>
+</resources>
